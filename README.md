@@ -1,4 +1,4 @@
-# NFTMaker 🐒 <img src="icon.png" width="260px" align="right" style='margin=0'>
+# NFTMaker 🐒 <img src="icon.png" width="250px" align="right" style='margin=0'>
 Com o assunto cada vez mais presente em conversas e posts na internet, foi desenvolvido o NFTMaker. No jogo, o usuário pode criar sua própria variante de "NFT" e salvá-lo em sua galeria.
 
 
